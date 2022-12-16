@@ -1,0 +1,53 @@
+[
+    {
+        "Tipe": "Lingkaran",
+        "Jari": "7",
+        "hasil": 21.98,
+        "waktu": "Friday, 16-12-2022  12:46:41"
+    },
+    {
+        "Tipe": "Lingkaran",
+        "Jari": "7",
+        "hasil": 21.98,
+        "waktu": "Friday, 16-12-2022  13:29:45"
+    },
+    {
+        "Tipe": "Lingkaran",
+        "Jari": "7",
+        "hasil": 153.86,
+        "waktu": "Friday, 16-12-2022  13:31:04"
+    },
+    {
+        "Tipe": "Persegi",
+        "sisi": "4",
+        "hasil": 16,
+        "waktu": "Friday, 16-12-2022  13:33:11"
+    },
+    {
+        "Tipe": "Persegi",
+        "sisi": "10",
+        "hasil": 100,
+        "waktu": "Friday, 16-12-2022  13:21:11"
+    },
+    {
+        "Tipe": "Segitiga",
+        "alas": "3",
+        "tinggi": "3",
+        "hasil": 4.5,
+        "waktu": "Friday, 16-12-2022  12:44:01"
+    },
+    {
+        "Tipe": "Segitiga",
+        "alas": "7",
+        "tinggi": "10",
+        "hasil": 35,
+        "waktu": "Friday, 16-12-2022  13:45:12"
+    },
+    {
+        "Tipe": "Segitiga",
+        "alas": "10",
+        "tinggi": "5",
+        "hasil": 25,
+        "waktu": "Friday, 16-12-2022  13:47:59"
+    }
+]
